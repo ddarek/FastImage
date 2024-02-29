@@ -2,14 +2,14 @@ repo_name: ddarek/FastImage
 report_id: b504c9559f2b9a08ce17ae5d3326a894
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-05T08:50:17+00:00'
+timestamp: '2024-02-29T18:39:00+00:00'
 requested_by: cosmindolha
 provider: github
 branch: main
 detected_tools_count: 2
 tools:
 - name: Swift
-  description: 'An innovative new programming language for Cocoa and Cocoa Touch. '
+  description: An innovative new programming language for Cocoa and Cocoa Touch.
   website_url: https://developer.apple.com/swift/
   license: Apache-2.0
   open_source: true
